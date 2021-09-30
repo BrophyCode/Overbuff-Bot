@@ -1,0 +1,22 @@
+{
+  "name": "overbuff-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JSesate/Overbuff-Bot.git"
+  },
+  "author": "Nate",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JSesate/Overbuff-Bot/issues"
+  },
+  "homepage": "https://github.com/JSesate/Overbuff-Bot#readme",
+  "dependencies": {
+    "discord.js": "^13.1.0"
+  }
+}
